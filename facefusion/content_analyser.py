@@ -7,7 +7,6 @@ from tqdm import tqdm
 from facefusion import inference_manager, state_manager, wording
 from facefusion.download import conditional_download_hashes, conditional_download_sources
 from facefusion.filesystem import resolve_relative_path
-from facefusion.thread_helper import conditional_thread_semaphore
 from facefusion.typing import Fps, InferencePool, ModelOptions, ModelSet, VisionFrame
 from facefusion.vision import count_video_frame_total, detect_video_fps, get_video_frame, read_image
 
