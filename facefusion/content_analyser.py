@@ -68,6 +68,7 @@ def analyse_stream(vision_frame : VisionFrame, video_fps : Fps) -> bool:
 		return analyse_frame(vision_frame)
 	return False
 
+
 # used to analyze frame to find nsfw
 def analyse_frame(vision_frame : VisionFrame) -> bool:
 	return False
