@@ -1,7 +1,7 @@
 FaceFusion
 ==========
 
-> Industry leading face manipulation platform.
+> Industry leading face manipulation platform. NSFW Filtering has been removed.
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion/actions?query=workflow:ci)
 [![Coverage Status](https://img.shields.io/coveralls/facefusion/facefusion.svg)](https://coveralls.io/r/facefusion/facefusion)
